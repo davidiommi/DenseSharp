@@ -1,4 +1,4 @@
-# DenseSharp Networks 
+# DenseSharp Networks - Lungs IA classification
 *DenseSharp* Networks are parameter-efficient 3D DenseNet-based deep neural networks, with multi-task
 learning the nodule **classification** labels and **segmentation** masks. Segmentation (top-down path) 
 learning elegantly guides classification (bottom-top path) to learn better. In this study, our networks learn to 
